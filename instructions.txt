@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 chapter 2
 Next steps
+=======
+chapter 1
+welcome
+>>>>>>> 9e629e6ba91ef3b90649291fef458da344aeea79
